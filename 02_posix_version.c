@@ -67,7 +67,6 @@ int main() {
 		printf("POSIX Real-time Signals supported\n");
 	#endif
 	#ifdef _POSIX_SAVED_ID
-	DEPARTMENT OF ISE, NMIT, BANGALORE 11
 		printf("POSIX Saved IDs supported\n");
 	#endif
 	#ifdef _POSIX_SEMAPHORES
